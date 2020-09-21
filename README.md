@@ -1,6 +1,6 @@
 # Anup Shrestha
 
-> I'm Java Developer and Fullstack Developer
+> I'm Backend Developer 
 
 ---
 
