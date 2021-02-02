@@ -1,17 +1,21 @@
 # Anup Shrestha
 
->I'm Backend Developer with set of skills with do work following work ethics.
+>I'm FullStack Developer with set of skills with do work following work ethics.
 ---
 Skills
 1. Java
 2. PHP
 3. Js 
 4. HTML and CSS
+5. Vue and Nuxt
+6. React
+7. Laravel
+8. Spring Boot
 ---
 
 ### Social media
 
-[MY WEBSITE](anupshrestha.me "anupshrestha.me")
+[MY WEBSITE](anupshrestha.me "https://anupshrestha.me")
 
 [FACEBOOK](https://www.facebook.com/anupshrestha11/ "facebook")
 
