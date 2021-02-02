@@ -15,7 +15,7 @@ Skills
 
 ### Social media
 
-[MY WEBSITE](anupshrestha.me "https://anupshrestha.me")
+[MY WEBSITE](https://anupshrestha.me "anupshrestha.me")
 
 [FACEBOOK](https://www.facebook.com/anupshrestha11/ "facebook")
 
