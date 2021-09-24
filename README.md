@@ -1,21 +1,69 @@
-# Anup Shrestha
+# Hi everyone :wave:
 
->I'm FullStack Developer with set of skills with do work following work ethics.
----
-Skills
-1. Java
-2. PHP
-3. Js 
-4. HTML and CSS
-5. Vue and Nuxt
-6. React
-7. Laravel
-8. Spring Boot
----
+I'm full-stack developer from the Nepal, who loves open source.
+I mainly code in JavaScript, but I am always learning. I am currently
+working on my career.
 
-### Social media
+## Quick overview
 
-[MY WEBSITE](https://anupshrestha.me "anupshrestha.me")
+- GitHub stats:  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anupshrestha11&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  </a>
 
-[FACEBOOK](https://www.facebook.com/anupshrestha11/ "facebook")
 
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+### What I do
+
+I am working and focusing on my academic career. Currently, I am as an full-stack developer where I work with vuejs, python, php and many more things.
+
+## My skills 📜
+
+### Web technologies
+
+- JavaScript
+- TypeScript
+- HTML, CSS
+- SCSS
+- Node.js
+- WordPress
+- PHP
+- MySQL, PostgreSQL, and MongoDB
+
+### Application Development
+
+- JAVA
+- Python 
+
+### Productivity utilities
+
+- VS Code
+- Jira
+
+### Languages 🌐
+
+- English
+- Nepali
+- Hindi
+
+## What I'm currently learning 📚
+
+- Vuejs
+- Laravel
+- Spring Boot
+- Flask
+- Nuxt
+- React.js
+- React Native
+- Flutter
+
+## Website subdomains 🔌
+
+My website has quite a few of them, here's a list of the public ones:
+
+- [anup-shrestha.com.np](https://anup-shrestha.com.np)
+</details>
