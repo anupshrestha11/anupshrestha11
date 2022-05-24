@@ -4,6 +4,8 @@ I'm full-stack developer from the Nepal, who loves open source.
 I mainly code in JavaScript, but I am always learning. I am currently
 working on my career.
 
+Currently, working as a software engineer at elsight.
+
 ## Quick overview
 
 - GitHub stats:  
